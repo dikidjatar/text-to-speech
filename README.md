@@ -5,4 +5,4 @@
 </ul>
 <h5>jalankan : </h5>
 <code>node server<code>
-<p>buka browser di <code>localhost:3000</code></p>
+<p>Open in browser <code>localhost:3000</code></p>
