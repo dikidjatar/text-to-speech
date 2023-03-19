@@ -1,0 +1,15 @@
+{
+  "name": "text-to-speech",
+  "version": "1.0.0",
+  "description": "text to speech with nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diki Djatar",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^4.2.1",
+    "express": "^4.18.2"
+  }
+}
